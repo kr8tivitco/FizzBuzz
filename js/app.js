@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-for (count =1; count <=15; count++) {
+for (count =1; count <=100; count++) {
 
 	//$("#countContaint span").html("my" + count);
 	if ((count % 3 == 0) && (count % 5 == 0)) {
